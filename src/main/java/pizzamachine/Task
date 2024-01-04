@@ -1,0 +1,39 @@
+
+    Bir Pizza Makinesi applikasyonu yapiniz.
+
+1 - Boyut Seçimi:
+    Kullanıcıya boyut seçeneklerini ve ucretlerini gösterin (büyük, orta, küçük).
+    Kullanıcıdan bir boyut seçmesini isteyin.
+    Seçilen boyutun göre bir standart fiyatlari =>
+    kucukBoy=25;
+    ortaBoy =30;
+    buyukBoy =35;
+    kullanici boyut secimi ve ucretini console da gorsun.
+
+2 -Hamur Seçimi:
+    Kullanıcıya hamur seçeneklerini ve ucretlerini gösterin (ince, orta)
+    Kullanıcıdan bir hamur seçmesini isteyin.
+    Seçilen hamura göre bir fiyat ==>
+    inceHamurFiyat = 5;
+    ortaHamurFiyat = 7;
+    kullanici hamur tipini ve ucretini konsolda gorsun
+
+3 -Malzeme Ekleme:
+    Kullanıcıya malzeme seçeneklerini veucretlerini gösterin (kasar, sucuk, mantar)
+    Malzeme listeleyin Kullanici Maximum 3 adet malzeme akleyebilir.
+    Eklenen malzemeleri fiyata ilave edin.
+    ekstrasucuk = 8;
+    ekstraKasar = 5;
+    mantar = 6;
+    ilave edildikten sonra kullanici toplam malzeme tutarini consolda gorsun
+
+4 - Toplam Fiyat Hesaplama Fis Detayi:
+    Toplam fiyatı hesaplayın ve kaydedin.
+    Pizza Bilgilerini Secim bilgilerini Gösterin
+    Toplam fiyatı ekrana yazdırın.(Odenecek Tutar)
+
+ 5-Cikis
+    programı sonlandırın.
+
+    Bu adımları takip ederek, kullanıcıya pizza boyutu, hamur tipi ve malzemelerin seçimini
+    yapma imkanı sağlayan ve toplam fiyatı hesaplayan bir pizza makinesi oluşturalim
